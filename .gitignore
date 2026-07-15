@@ -25,3 +25,6 @@ pnpm-debug.log*
 
 # Parent directory stuff
 ../
+
+#assets
+src/assets/
